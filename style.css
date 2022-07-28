@@ -1,0 +1,32 @@
+.pro-bg-info{
+    background-color: #ddf1fb;
+}
+.text{
+    text-align: left;
+    padding: 150px;
+}
+.btnprimary{
+    color: #ffffff;
+    background-color: #289BDE;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;  
+}
+.pro-bg-primary{
+    background-color: #289BDE;
+    padding-top: 90px;
+    height: 250px;
+    border-radius: 5px;
+    color: #ffffff;
+    display: flex;
+}
+.textprimary{
+    text-decoration: none;
+    background-color: #ffffff;
+    color: #289BDE;
+    padding: 10px;
+    border-radius: 5px;
+}
+.flexibility{
+    display: flex;
+}
